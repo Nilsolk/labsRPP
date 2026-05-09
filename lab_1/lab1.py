@@ -12,7 +12,7 @@ def input_int(num:int):
 def create_list(name):
     print(f"\nСписок {name}:")
     print("1 - ввод с клавиатуры")
-    print("2 - случайная генерация")
+    print("2 - случайная генерация элементов")
 
     while True:
         choice = input("Ваш выбор: ")

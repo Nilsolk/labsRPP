@@ -71,6 +71,7 @@ def print_matrix(name, matrix):
         print()
 
 
+
 def main():
     n = input_size("Введите количество строк N: ")
     m = input_size("Введите количество столбцов M: ")
